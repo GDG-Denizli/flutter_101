@@ -1,6 +1,6 @@
 # flutter_denizli
 
-A new Flutter project.
+29.02.2020 tarihinde "Flutter 101 " etkinliğinde yapılanları bu repo altında bulabilirsiniz. 🥳
 
 ## Getting Started
 
